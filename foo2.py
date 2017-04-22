@@ -5,5 +5,6 @@ Created on Sat Apr 22 11:22:40 2017
 
 @author: mepsteinmartin
 """
-
+import random
 petnames = ["hissyelliot", "pawnewman", "kittypurry"] 
+print (ranadom.choice(petnames)) 

@@ -10,3 +10,4 @@ petnames = ["hissyelliot", "pawnewman", "kittypurry"]
 print (ranadom.choice(petnames))
 
 print ("hello")
+print (2)
